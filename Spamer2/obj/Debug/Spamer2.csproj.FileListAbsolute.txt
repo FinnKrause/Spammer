@@ -1,0 +1,76 @@
+C:\Users\Finn\source\repos\Spamer2\Spamer2\obj\Debug\MainWindow.g.cs
+C:\Users\Finn\source\repos\Spamer2\Spamer2\obj\Debug\App.g.cs
+C:\Users\Finn\source\repos\Spamer2\Spamer2\obj\Debug\MainWindow.baml
+C:\Users\Finn\source\repos\Spamer2\Spamer2\obj\Debug\Spamer2.csproj.GenerateResource.cache
+C:\Users\Finn\source\repos\Spamer2\Spamer2\obj\Debug\Spamer2.csproj.CoreCompileInputs.cache
+C:\Users\Finn\source\repos\Spamer2\Spamer2\obj\Debug\Spamer2.csprojAssemblyReference.cache
+C:\Users\Finn\source\repos\Spamer2\Spamer2\bin\Debug\Spamer.exe.config
+C:\Users\Finn\source\repos\Spamer2\Spamer2\bin\Debug\Spamer.exe.manifest
+C:\Users\Finn\source\repos\Spamer2\Spamer2\bin\Debug\Spamer.application
+C:\Users\Finn\source\repos\Spamer2\Spamer2\bin\Debug\Spamer.exe
+C:\Users\Finn\source\repos\Spamer2\Spamer2\bin\Debug\Spamer.pdb
+C:\Users\Finn\source\repos\Spamer2\Spamer2\obj\Debug\Spamer_MarkupCompile.cache
+C:\Users\Finn\source\repos\Spamer2\Spamer2\obj\Debug\Spamer_MarkupCompile.lref
+C:\Users\Finn\source\repos\Spamer2\Spamer2\obj\Debug\Spamer.g.resources
+C:\Users\Finn\source\repos\Spamer2\Spamer2\obj\Debug\Spamer.Properties.Resources.resources
+C:\Users\Finn\source\repos\Spamer2\Spamer2\obj\Debug\Spamer.exe.manifest
+C:\Users\Finn\source\repos\Spamer2\Spamer2\obj\Debug\Spamer.application
+C:\Users\Finn\source\repos\Spamer2\Spamer2\obj\Debug\Spamer.exe
+C:\Users\Finn\source\repos\Spamer2\Spamer2\obj\Debug\Spamer.pdb
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\bin\Debug\Spamer.exe.config
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\bin\Debug\Spamer.exe.manifest
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\bin\Debug\Spamer.application
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\bin\Debug\Spamer.exe
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\bin\Debug\Spamer.pdb
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\obj\Debug\Spamer2.csprojAssemblyReference.cache
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\obj\Debug\MainWindow.g.cs
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\obj\Debug\App.g.cs
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\obj\Debug\Spamer_MarkupCompile.cache
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\obj\Debug\Spamer_MarkupCompile.lref
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\obj\Debug\MainWindow.baml
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\obj\Debug\Spamer.g.resources
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\obj\Debug\Spamer.Properties.Resources.resources
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\obj\Debug\Spamer2.csproj.GenerateResource.cache
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\obj\Debug\Spamer2.csproj.CoreCompileInputs.cache
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\obj\Debug\Spamer.exe.manifest
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\obj\Debug\Spamer.application
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\obj\Debug\Spamer.exe
+C:\Users\Finn\source\repos\Spamer2 Arda\Spamer2\obj\Debug\Spamer.pdb
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\bin\Debug\Spamer.exe.config
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\bin\Debug\Spamer.exe.manifest
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\bin\Debug\Spamer.application
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\bin\Debug\Spamer.exe
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\bin\Debug\Spamer.pdb
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\obj\Debug\Spamer2.csprojAssemblyReference.cache
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\obj\Debug\MainWindow.g.cs
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\obj\Debug\App.g.cs
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\obj\Debug\Spamer_MarkupCompile.cache
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\obj\Debug\Spamer_MarkupCompile.lref
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\obj\Debug\MainWindow.baml
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\obj\Debug\Spamer.g.resources
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\obj\Debug\Spamer.Properties.Resources.resources
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\obj\Debug\Spamer2.csproj.GenerateResource.cache
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\obj\Debug\Spamer2.csproj.CoreCompileInputs.cache
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\obj\Debug\Spamer.exe.manifest
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\obj\Debug\Spamer.application
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\obj\Debug\Spamer.exe
+C:\Users\Finn\source\repos\Spamer2 Arda - Copy\Spamer2\obj\Debug\Spamer.pdb
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Debug\Spamer2.csprojAssemblyReference.cache
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Debug\MainWindow.g.cs
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Debug\App.g.cs
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Debug\MainWindow.baml
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Debug\Spamer2.csproj.GenerateResource.cache
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Debug\Spamer2.csproj.CoreCompileInputs.cache
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\bin\Debug\Spammer.exe.config
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\bin\Debug\Spammer.exe.manifest
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\bin\Debug\Spammer.application
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\bin\Debug\Spammer.exe
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\bin\Debug\Spammer.pdb
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Debug\Spammer_MarkupCompile.cache
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Debug\Spammer_MarkupCompile.lref
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Debug\Spammer.g.resources
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Debug\Spammer.Properties.Resources.resources
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Debug\Spammer.exe.manifest
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Debug\Spammer.application
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Debug\Spammer.exe
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Debug\Spammer.pdb

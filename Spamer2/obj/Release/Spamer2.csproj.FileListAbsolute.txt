@@ -1,0 +1,42 @@
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\bin\Release\Spammer.exe.config
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\bin\Release\Spammer.exe.manifest
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\bin\Release\Spammer.application
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\bin\Release\Spammer.exe
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\bin\Release\Spammer.pdb
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Release\Spamer2.csprojAssemblyReference.cache
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Release\MainWindow.g.cs
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Release\App.g.cs
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Release\Spammer_MarkupCompile.cache
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Release\Spammer_MarkupCompile.lref
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Release\MainWindow.baml
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Release\Spammer.g.resources
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Release\Spammer.Properties.Resources.resources
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Release\Spamer2.csproj.GenerateResource.cache
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Release\Spamer2.csproj.CoreCompileInputs.cache
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Release\Spammer.exe.manifest
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Release\Spammer.application
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Release\Spammer.exe
+C:\Users\Finn\source\repos\Spammer Renewed\Spamer2\obj\Release\Spammer.pdb
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\bin\Release\Spammer.exe.config
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\bin\Release\Spammer.exe.manifest
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\bin\Release\Spammer.application
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\bin\Release\Spammer.exe
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\bin\Release\Spammer.pdb
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\obj\Release\MainWindow.g.cs
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\obj\Release\App.g.cs
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\obj\Release\Spammer_MarkupCompile.cache
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\obj\Release\Spammer_MarkupCompile.lref
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\obj\Release\MainWindow.baml
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\obj\Release\Spammer.g.resources
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\obj\Release\Spammer.Properties.Resources.resources
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\obj\Release\Spamer2.csproj.GenerateResource.cache
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\obj\Release\Spamer2.csproj.CoreCompileInputs.cache
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\obj\Release\Spammer.exe.manifest
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\obj\Release\Spammer.application
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\obj\Release\Spammer.exe
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\obj\Release\Spammer.pdb
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\obj\Release\Spamer2.csproj.AssemblyReference.cache
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\bin\Release\Newtonsoft.Json.dll
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\bin\Release\Newtonsoft.Json.xml
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\obj\Release\Spamer2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Finn\source\repos\SpammerUmgeschrieben\Spamer2\obj\Release\Spamer2.csproj.CopyComplete
